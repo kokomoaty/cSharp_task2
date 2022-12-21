@@ -1,0 +1,15 @@
+C:\Users\koko\Desktop\sec_task\bin\Debug\net7.0\sec_task.exe
+C:\Users\koko\Desktop\sec_task\bin\Debug\net7.0\sec_task.deps.json
+C:\Users\koko\Desktop\sec_task\bin\Debug\net7.0\sec_task.runtimeconfig.json
+C:\Users\koko\Desktop\sec_task\bin\Debug\net7.0\sec_task.dll
+C:\Users\koko\Desktop\sec_task\bin\Debug\net7.0\sec_task.pdb
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.csproj.AssemblyReference.cache
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.AssemblyInfoInputs.cache
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.AssemblyInfo.cs
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.csproj.CoreCompileInputs.cache
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.dll
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\refint\sec_task.dll
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.pdb
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\sec_task.genruntimeconfig.cache
+C:\Users\koko\Desktop\sec_task\obj\Debug\net7.0\ref\sec_task.dll
